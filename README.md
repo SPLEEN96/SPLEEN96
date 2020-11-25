@@ -1,7 +1,9 @@
 
 ## Hello there 👋
 
-My name is Nicolas Guay. <br/>I have been passionate about computer science since the age of 11 and continuously strive to upgrade my knowledge.
+My name is Nicolas Guay. <br/>
+I have been passionate about computer science since the age of 11. <br/>
+I continuously strive to upgrade my knowledge. :mortar_board:
 
 <img width="50%" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
 
@@ -9,7 +11,7 @@ My name is Nicolas Guay. <br/>I have been passionate about computer science sinc
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=SPLEEN96&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=kacho_ga"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SPLEEN96&exclude_repo=github-readme-stats&layout=compact&theme=kacho_ga">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPLEEN96&exclude_repo=github-readme-stats&layout=compact&theme=kacho_ga"/>
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPLEEN96&exclude_repo=github-readme-stats&layout=compact&theme=kacho_ga"/>
 </a>
 
 <!--
