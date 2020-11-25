@@ -1,7 +1,7 @@
 ### Hello there 👋
 <img align="center" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
-![github_stats](https://github-readme-stats.vercel.app/api?username=SPLEEN96&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=kacho_ga)
-[![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPLEEN96&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=kacho_ga)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPLEEN96&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=kacho_ga)"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPLEEN96&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=kacho_ga)"/>
 
 <!--
 **SPLEEN96/SPLEEN96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
