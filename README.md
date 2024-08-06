@@ -3,8 +3,8 @@
 
 My name is Nicolas Guay. <br/>
 I have been passionate about computer science since the age of 11. <br/>
-I continuously strive to upgrade my knowledge. :mortar_board:
-Currently Chief Architect at Theatrixx Technologies.
+I continuously strive to upgrade my knowledge. :mortar_board: <br/> <br/>
+Chief Architect at Theatrixx Technologies.
 
 <img width="50%" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
 
